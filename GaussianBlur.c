@@ -1,6 +1,6 @@
 /*
     Author: Roshan Parajuli
-    Application: Linear Regression in C
+    Application: Gaussian Blur with multithreading in C
 */
 
 #include <stdio.h>
